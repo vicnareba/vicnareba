@@ -25,7 +25,7 @@ My name is Victor Hugo, i'm a Programmer Analyst, currently providing service to
 - [x] Spring | Quarkus
 - [x] Android | iOS
 - [x] AngularJs | Angular | React Native | ReactJs | Vue
-- [x] DevOps | Metotologias Ágeis | Scrum
+- [x] DevOps | Metodologias Ágeis | Scrum
 - [x] Jenkins
 - [x] PostgreSQL | MS SqlServer | Oracle DB | MongoDB | MySql | MariaDB
 - [x] Apache Lucene | Solr | Elastic Search
