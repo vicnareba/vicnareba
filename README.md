@@ -1,15 +1,15 @@
 # Victor Hugo de Paula Costa 
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+[linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)
 
 ### Hi, everyone 👋
 
 Meu nome é Victor Hugo, sou Analista Programador, atualmente prestando serviço para Polícia Federal.
 
-My name is Victor Hugo, i'm a Programmer Analyst, currently providing service to the Polícia Federal.
-
 - Pós graduado em MBA, Governança de T.I pelo IPOG.
 - Pós graduando em Arquitetura de Software Distribuídos pela PUC Minas.
 - Buscando aprender todos dias.
+
+My name is Victor Hugo, i'm a Programmer Analyst, currently providing service to the Polícia Federal.
 
 - Post-graduation in MBA, IT Governance by IPOG.
 - Post-graduate degree in Software Architecture Distributed by PUC Minas.
